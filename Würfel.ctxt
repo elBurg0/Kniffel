@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=W\u00FCrfel
+comment0.text=\r\n\ In\ Der\ Klasse\ "W\u00FCrfel"\ werden\ die\ Werte\ f\u00FCr\ eine\ beliebige\ Anzahl\ geworfener\ W\u00FCrfel\ gespeichert.\ \r\n\ Hierbei\ wird\ das\ W\u00FCrfeln\ simuliert.\ Die\ Ergebnisse\ (in\ Form\ der\ Augenzahlen)\r\n\ werden\ gespeichert\ und\ ausgegeben.\r\n\ \r\n\ @author\ Maximilian\ Bauer\ Name\ \r\n\ @version\ 16.09.2021\r\n
+comment1.params=spiel
+comment1.target=W\u00FCrfel(Spiel)
+comment1.text=\r\n\ Hier\ wird\ ein\ W\u00FCrfel\ mit\ sechs\ Seiten\ erstellt.\r\n\ Initialisiert\ einen\ Zufallsgenerator\ und\ l\u00E4sst\ diesen\ dann\ Zufallswerte\ in\ die\ Datenfelder\ der\ W\u00FCrfel\ speichern.\r\n\ Das\ Ergebnis\ (bzw.\ die\ Summe)\ der\ Augenzahlen\ W\u00FCrfel\ wird\ im\ Datenfeld\ "AugenzahlGesamt"\ gespeichert.\r\n
+comment2.params=
+comment2.target=int\ givePunkte()
+comment2.text=\r\n\ In\ dieser\ Methode\ wird\ die\ gew\u00FCrfelte\ Gesamtpunktzahl\ ausgegeben\r\n\ return\ Gibt\ die\ Summe\ der\ gew\u00FCrfelten\ Ergebnisse\ aus\r\n
+comment3.params=spiel
+comment3.target=int\ pasch(Spiel)
+comment3.text=\ \r\n\ In\ dieser\ Methode\ wird\ gepr\u00FCft,\ ob\ ein\ Pasch\ gew\u00FCrfelt\ wurde.\ (Alle\ W\u00FCrfel\ gleiche\ Augenzahl)\r\n\ Wenn\ das\ der\ Fall\ ist,\ werden\ dem\ Spieler\ Bonuspunkte\ hinzugef\u00FCgt\r\n\ Ist\ das\ nicht\ der\ Fall,\ wird\ kein\ Bonus\ addiert\r\n
+numComments=4

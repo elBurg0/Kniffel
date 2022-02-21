@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Spieler
+comment0.text=\r\n\ In\ dieser\ Methode\ werden\ die\ Spieler\ definiert.\ Ihre\ Namen\ werden\ bestimmt.\r\n\ \r\n\ @author\ Maximilian\ Bauer\ \r\n\ @version\ 16.09.2021\r\n
+comment1.params=name
+comment1.target=Spieler(java.lang.String)
+comment1.text=\r\n\ Hier\ wird\ ein\ neuer\ Spieler\ erstellt\r\n
+comment2.params=spiel
+comment2.target=int\ spielerWurf(Spiel)
+comment2.text=\r\n\ Methode,\ die\ den\ Spieler\ einmal\ w\u00FCrfeln\ l\u00E4sst\r\n\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ giveName()
+comment3.text=\r\n\ Hier\ wird\ der\ Name\ des\ Spielers\ ausgegeben\r\n\ Wenn\ die\ Methode\ aufgerufen\ wird,\ wird\ der\ Name\ des\ Spielers\ returned\r\n
+numComments=4

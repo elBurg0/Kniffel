@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Spiel
+comment0.text=\r\n\ Die\ Klasse\ "Spiel"\ ist\ die\ Hauptklasse\ des\ Programms.\ Hier\ wird\ die\ Simulation\ des\ Spiels\ durchgef\u00FChrt.\ \r\n\ Die\ Anzahl\ der\ Runden,\ W\u00FCrfel\ und\ Spieler\ kann\ festgelegt\ werden.\ \r\n\ Die\ Klasse\ beinhaltet\ auch\ die\ Ausgabe\ eines\ Einleitungs-\ und\ Schlussatzes.\r\n\ \r\n\ @author\ Maximilian\ Bauer\ \r\n\ @version\ 16.09.2021\r\n
+comment1.params=
+comment1.target=Spiel()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ die\ Objekte\ der\ Klasse\ Spiel.\r\n\ Hierbei\ wird\ die\ Rundenzahl\ am\ Beginn\ des\ Spiels\ auf\ 1\ gesetzt.\r\n
+comment2.params=
+comment2.target=Spiel\ getInstance()
+comment2.text=\r\n\ Wenn\ das\ Datenfeld\ des\ singleton\ leer\ ist,\ wird\ ein\ Objekt\ der\ Klasse\ Spiel\ in\ diesem\ Datenfeld\ gespeichert\ und\ ausgegeben\r\n
+comment3.params=
+comment3.target=void\ main()
+comment3.text=\r\n\ Implementierung\ der\ Main\ Method\r\n\ Das\ ist\ ein\ Einstiegspunkt\ f\u00FCr\ den\ Direktstart\ des\ Programms.\r\n
+comment4.params=spiel
+comment4.target=void\ spielStart(Spiel)
+comment4.text=\r\n\ Simulation\ eines\ W\u00FCrfelspiels\r\n
+comment5.params=
+comment5.target=void\ anleitung()
+comment5.text=\r\n\ Methode\ durch\ welche\ der\ Einleitungstext\ vor\ Spielbeginn\ ausgegeben\ wird.\r\n
+comment6.params=spiel
+comment6.target=Spiel\ vorbereitung(Spiel)
+comment7.params=
+comment7.target=void\ abschied()
+comment7.text=\r\n\ Methode\ durch\ welche\ der\ Abschiedstext\ nach\ Ende\ des\ Spiels\ ausgegeben\ wird.\r\n
+numComments=8
