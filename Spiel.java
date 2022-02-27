@@ -183,10 +183,8 @@ public class Spiel {
      * Methode durch welche der Abschiedstext nach Ende des Spiels ausgegeben wird.
      */
     private void abschied() {
-
         Highscores hs = new Highscores(spieler);
 
-        
         Collections.sort(spieler, Comparator.comparing(Spieler::getPunkte).reversed());
 
         System.out.println(" ");
@@ -208,7 +206,6 @@ public class Spiel {
         System.out.println("______________________________________");
         System.out.println("");
         System.out.println("Globale Highscores:");
-
 
         ArrayList<Spieler> highscores = hs.get_spieler();
         int g = 1;

@@ -93,7 +93,7 @@ public class Würfel {
         List<Bonus> unclaimed_bonis = new ArrayList<>();
         List<Bonus> unclaimed_bonis2 = new ArrayList<>();
 
-        for (int i = 1; i < this.giveWürfel().length; i++){
+        for (int i = 1; i < 7; i++){
             Bonus boni = new Pasch(i + "er", 0, 0);
             unclaimed_bonis.add(boni);
         }
